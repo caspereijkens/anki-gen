@@ -1,0 +1,2053 @@
+#separator:tab
+#html:true
+"爱
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>爱</div>
+"	"爱
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>爱</div>
+<hr id=""answer"">ài - houden van, liefde
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>ài - houden van, liefde</div>
+"
+"八
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>八</div>
+"	"八
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>八</div>
+<hr id=""answer"">bā - acht
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>bā - acht</div>
+"
+"爸爸
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>爸爸</div>
+"	"爸爸
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>爸爸</div>
+<hr id=""answer"">bàba - vader
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>bàba - vader</div>
+"
+"杯子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>杯子</div>
+"	"杯子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>杯子</div>
+<hr id=""answer"">bēizi - kopje, glas
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>bēizi - kopje, glas</div>
+"
+"北京
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>北京</div>
+"	"北京
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>北京</div>
+<hr id=""answer"">Běijīng - Peking
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>Běijīng - Peking</div>
+"
+"本
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>本</div>
+"	"本
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>本</div>
+<hr id=""answer"">běn - boek (classifier), basis
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>běn - boek (classifier), basis</div>
+"
+"不
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>不</div>
+"	"不
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>不</div>
+<hr id=""answer"">bù - niet
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>bù - niet</div>
+"
+"不客气
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>不客气</div>
+"	"不客气
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>不客气</div>
+<hr id=""answer"">bú kèqi - graag gedaan, geen dank
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>bú kèqi - graag gedaan, geen dank</div>
+"
+"菜
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>菜</div>
+"	"菜
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>菜</div>
+<hr id=""answer"">cài - groente, gerecht
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>cài - groente, gerecht</div>
+"
+"茶
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>茶</div>
+"	"茶
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>茶</div>
+<hr id=""answer"">chá - thee
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>chá - thee</div>
+"
+"吃
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>吃</div>
+"	"吃
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>吃</div>
+<hr id=""answer"">chī - eten
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>chī - eten</div>
+"
+"出租车
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>出租车</div>
+"	"出租车
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>出租车</div>
+<hr id=""answer"">chūzūchē - taxi
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>chūzūchē - taxi</div>
+"
+"打电话
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>打电话</div>
+"	"打电话
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>打电话</div>
+<hr id=""answer"">dǎ diànhuà - bellen (telefoon)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>dǎ diànhuà - bellen (telefoon)</div>
+"
+"大
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>大</div>
+"	"大
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>大</div>
+<hr id=""answer"">dà - groot
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>dà - groot</div>
+"
+"的
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>的</div>
+"	"的
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>的</div>
+<hr id=""answer"">de - bezittelijk partikel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>de - bezittelijk partikel</div>
+"
+"点
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>点</div>
+"	"点
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>点</div>
+<hr id=""answer"">diǎn - punt, uur (tijd)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>diǎn - punt, uur (tijd)</div>
+"
+"电脑
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>电脑</div>
+"	"电脑
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>电脑</div>
+<hr id=""answer"">diànnǎo - computer
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>diànnǎo - computer</div>
+"
+"电视
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>电视</div>
+"	"电视
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>电视</div>
+<hr id=""answer"">diànshì - televisie
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>diànshì - televisie</div>
+"
+"电影
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>电影</div>
+"	"电影
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>电影</div>
+<hr id=""answer"">diànyǐng - film
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>diànyǐng - film</div>
+"
+"东西
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>东西</div>
+"	"东西
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>东西</div>
+<hr id=""answer"">dōngxi - ding, spullen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>dōngxi - ding, spullen</div>
+"
+"都
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>都</div>
+"	"都
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>都</div>
+<hr id=""answer"">dōu - allebei, allemaal
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>dōu - allebei, allemaal</div>
+"
+"读
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>读</div>
+"	"读
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>读</div>
+<hr id=""answer"">dú - lezen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>dú - lezen</div>
+"
+"对不起
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>对不起</div>
+"	"对不起
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>对不起</div>
+<hr id=""answer"">duìbuqǐ - sorry
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>duìbuqǐ - sorry</div>
+"
+"多
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>多</div>
+"	"多
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>多</div>
+<hr id=""answer"">duō - veel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>duō - veel</div>
+"
+"多少
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>多少</div>
+"	"多少
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>多少</div>
+<hr id=""answer"">duōshao - hoeveel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>duōshao - hoeveel</div>
+"
+"儿子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>儿子</div>
+"	"儿子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>儿子</div>
+<hr id=""answer"">érzi - zoon
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>érzi - zoon</div>
+"
+"二
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>二</div>
+"	"二
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>二</div>
+<hr id=""answer"">èr - twee
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>èr - twee</div>
+"
+"饭店
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>饭店</div>
+"	"饭店
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>饭店</div>
+<hr id=""answer"">fàndiàn - restaurant, hotel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>fàndiàn - restaurant, hotel</div>
+"
+"飞机
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>飞机</div>
+"	"飞机
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>飞机</div>
+<hr id=""answer"">fēijī - vliegtuig
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>fēijī - vliegtuig</div>
+"
+"分钟
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>分钟</div>
+"	"分钟
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>分钟</div>
+<hr id=""answer"">fēnzhōng - minuut
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>fēnzhōng - minuut</div>
+"
+"高兴
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>高兴</div>
+"	"高兴
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>高兴</div>
+<hr id=""answer"">gāoxìng - blij, gelukkig
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>gāoxìng - blij, gelukkig</div>
+"
+"个
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>个</div>
+"	"个
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>个</div>
+<hr id=""answer"">gè - algemeen classifier
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>gè - algemeen classifier</div>
+"
+"工作
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>工作</div>
+"	"工作
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>工作</div>
+<hr id=""answer"">gōngzuò - werk, werken
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>gōngzuò - werk, werken</div>
+"
+"狗
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>狗</div>
+"	"狗
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>狗</div>
+<hr id=""answer"">gǒu - hond
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>gǒu - hond</div>
+"
+"汉语
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>汉语</div>
+"	"汉语
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>汉语</div>
+<hr id=""answer"">Hànyǔ - Chinees (taal)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>Hànyǔ - Chinees (taal)</div>
+"
+"好
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>好</div>
+"	"好
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>好</div>
+<hr id=""answer"">hǎo - goed
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>hǎo - goed</div>
+"
+"号
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>号</div>
+"	"号
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>号</div>
+<hr id=""answer"">hào - nummer, datum
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>hào - nummer, datum</div>
+"
+"喝
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>喝</div>
+"	"喝
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>喝</div>
+<hr id=""answer"">hē - drinken
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>hē - drinken</div>
+"
+"和
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>和</div>
+"	"和
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>和</div>
+<hr id=""answer"">hé - en, vredig
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>hé - en, vredig</div>
+"
+"很
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>很</div>
+"	"很
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>很</div>
+<hr id=""answer"">hěn - erg, zeer
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>hěn - erg, zeer</div>
+"
+"后面
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>后面</div>
+"	"后面
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>后面</div>
+<hr id=""answer"">hòumiàn - achterkant, later
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>hòumiàn - achterkant, later</div>
+"
+"回
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>回</div>
+"	"回
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>回</div>
+<hr id=""answer"">huí - terugkeren
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>huí - terugkeren</div>
+"
+"会
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>会</div>
+"	"会
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>会</div>
+<hr id=""answer"">huì - kunnen (geleerd vermogen)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>huì - kunnen (geleerd vermogen)</div>
+"
+"几
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>几</div>
+"	"几
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>几</div>
+<hr id=""answer"">jǐ - hoeveel (klein aantal)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>jǐ - hoeveel (klein aantal)</div>
+"
+"家
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>家</div>
+"	"家
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>家</div>
+<hr id=""answer"">jiā - thuis, familie
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>jiā - thuis, familie</div>
+"
+"叫
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>叫</div>
+"	"叫
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>叫</div>
+<hr id=""answer"">jiào - roepen, heten
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>jiào - roepen, heten</div>
+"
+"今天
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>今天</div>
+"	"今天
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>今天</div>
+<hr id=""answer"">jīntiān - vandaag
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>jīntiān - vandaag</div>
+"
+"九
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>九</div>
+"	"九
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>九</div>
+<hr id=""answer"">jiǔ - negen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>jiǔ - negen</div>
+"
+"开
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>开</div>
+"	"开
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>开</div>
+<hr id=""answer"">kāi - openen, rijden
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>kāi - openen, rijden</div>
+"
+"看
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>看</div>
+"	"看
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>看</div>
+<hr id=""answer"">kàn - kijken, lezen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>kàn - kijken, lezen</div>
+"
+"看见
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>看见</div>
+"	"看见
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>看见</div>
+<hr id=""answer"">kànjiàn - zien
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>kànjiàn - zien</div>
+"
+"块
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>块</div>
+"	"块
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>块</div>
+<hr id=""answer"">kuài - stuk, yuan (geld)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>kuài - stuk, yuan (geld)</div>
+"
+"来
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>来</div>
+"	"来
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>来</div>
+<hr id=""answer"">lái - komen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>lái - komen</div>
+"
+"老师
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>老师</div>
+"	"老师
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>老师</div>
+<hr id=""answer"">lǎoshī - leraar
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>lǎoshī - leraar</div>
+"
+"了
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>了</div>
+"	"了
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>了</div>
+<hr id=""answer"">le - voltooid aspect partikel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>le - voltooid aspect partikel</div>
+"
+"冷
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>冷</div>
+"	"冷
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>冷</div>
+<hr id=""answer"">lěng - koud
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>lěng - koud</div>
+"
+"里
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>里</div>
+"	"里
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>里</div>
+<hr id=""answer"">lǐ - in, binnen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>lǐ - in, binnen</div>
+"
+"六
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>六</div>
+"	"六
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>六</div>
+<hr id=""answer"">liù - zes
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>liù - zes</div>
+"
+"妈妈
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>妈妈</div>
+"	"妈妈
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>妈妈</div>
+<hr id=""answer"">māma - moeder
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>māma - moeder</div>
+"
+"吗
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>吗</div>
+"	"吗
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>吗</div>
+<hr id=""answer"">ma - vraagpartikel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>ma - vraagpartikel</div>
+"
+"买
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>买</div>
+"	"买
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>买</div>
+<hr id=""answer"">mǎi - kopen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>mǎi - kopen</div>
+"
+"猫
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>猫</div>
+"	"猫
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>猫</div>
+<hr id=""answer"">māo - kat
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>māo - kat</div>
+"
+"没
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>没</div>
+"	"没
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>没</div>
+<hr id=""answer"">méi - niet (ontkennend)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>méi - niet (ontkennend)</div>
+"
+"没关系
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>没关系</div>
+"	"没关系
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>没关系</div>
+<hr id=""answer"">méi guānxi - geen probleem
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>méi guānxi - geen probleem</div>
+"
+"米饭
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>米饭</div>
+"	"米饭
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>米饭</div>
+<hr id=""answer"">mǐfàn - gekookte rijst
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>mǐfàn - gekookte rijst</div>
+"
+"名字
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>名字</div>
+"	"名字
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>名字</div>
+<hr id=""answer"">míngzi - naam
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>míngzi - naam</div>
+"
+"明天
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>明天</div>
+"	"明天
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>明天</div>
+<hr id=""answer"">míngtiān - morgen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>míngtiān - morgen</div>
+"
+"哪
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>哪</div>
+"	"哪
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>哪</div>
+<hr id=""answer"">nǎ - welke
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>nǎ - welke</div>
+"
+"那儿
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>那儿</div>
+"	"那儿
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>那儿</div>
+<hr id=""answer"">nàr - daar
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>nàr - daar</div>
+"
+"呢
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>呢</div>
+"	"呢
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>呢</div>
+<hr id=""answer"">ne - partikel (nadruk op vraag)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>ne - partikel (nadruk op vraag)</div>
+"
+"能
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>能</div>
+"	"能
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>能</div>
+<hr id=""answer"">néng - kunnen (vermogen)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>néng - kunnen (vermogen)</div>
+"
+"你
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>你</div>
+"	"你
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>你</div>
+<hr id=""answer"">nǐ - jij
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>nǐ - jij</div>
+"
+"年
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>年</div>
+"	"年
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>年</div>
+<hr id=""answer"">nián - jaar
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>nián - jaar</div>
+"
+"女儿
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>女儿</div>
+"	"女儿
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>女儿</div>
+<hr id=""answer"">nǚ'ér - dochter
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>nǚ'ér - dochter</div>
+"
+"朋友
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>朋友</div>
+"	"朋友
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>朋友</div>
+<hr id=""answer"">péngyou - vriend
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>péngyou - vriend</div>
+"
+"漂亮
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>漂亮</div>
+"	"漂亮
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>漂亮</div>
+<hr id=""answer"">piàoliang - mooi
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>piàoliang - mooi</div>
+"
+"苹果
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>苹果</div>
+"	"苹果
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>苹果</div>
+<hr id=""answer"">píngguǒ - appel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>píngguǒ - appel</div>
+"
+"七
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>七</div>
+"	"七
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>七</div>
+<hr id=""answer"">qī - zeven
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>qī - zeven</div>
+"
+"钱
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>钱</div>
+"	"钱
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>钱</div>
+<hr id=""answer"">qián - geld
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>qián - geld</div>
+"
+"前面
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>前面</div>
+"	"前面
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>前面</div>
+<hr id=""answer"">qiánmiàn - voorkant, voor
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>qiánmiàn - voorkant, voor</div>
+"
+"请
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>请</div>
+"	"请
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>请</div>
+<hr id=""answer"">qǐng - alstublieft, uitnodigen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>qǐng - alstublieft, uitnodigen</div>
+"
+"去
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>去</div>
+"	"去
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>去</div>
+<hr id=""answer"">qù - gaan
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>qù - gaan</div>
+"
+"热
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>热</div>
+"	"热
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>热</div>
+<hr id=""answer"">rè - heet
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>rè - heet</div>
+"
+"人
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>人</div>
+"	"人
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>人</div>
+<hr id=""answer"">rén - persoon
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>rén - persoon</div>
+"
+"认识
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>认识</div>
+"	"认识
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>认识</div>
+<hr id=""answer"">rènshi - kennen, herkennen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>rènshi - kennen, herkennen</div>
+"
+"三
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>三</div>
+"	"三
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>三</div>
+<hr id=""answer"">sān - drie
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>sān - drie</div>
+"
+"商店
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>商店</div>
+"	"商店
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>商店</div>
+<hr id=""answer"">shāngdiàn - winkel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shāngdiàn - winkel</div>
+"
+"上
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>上</div>
+"	"上
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>上</div>
+<hr id=""answer"">shàng - boven, op
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shàng - boven, op</div>
+"
+"上午
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>上午</div>
+"	"上午
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>上午</div>
+<hr id=""answer"">shàngwǔ - ochtend
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shàngwǔ - ochtend</div>
+"
+"少
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>少</div>
+"	"少
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>少</div>
+<hr id=""answer"">shǎo - weinig
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shǎo - weinig</div>
+"
+"谁
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>谁</div>
+"	"谁
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>谁</div>
+<hr id=""answer"">shéi - wie
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shéi - wie</div>
+"
+"什么
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>什么</div>
+"	"什么
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>什么</div>
+<hr id=""answer"">shénme - wat
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shénme - wat</div>
+"
+"十
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>十</div>
+"	"十
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>十</div>
+<hr id=""answer"">shí - tien
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shí - tien</div>
+"
+"时候
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>时候</div>
+"	"时候
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>时候</div>
+<hr id=""answer"">shíhou - tijd, moment
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shíhou - tijd, moment</div>
+"
+"是
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>是</div>
+"	"是
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>是</div>
+<hr id=""answer"">shì - zijn
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shì - zijn</div>
+"
+"书
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>书</div>
+"	"书
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>书</div>
+<hr id=""answer"">shū - boek
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shū - boek</div>
+"
+"水
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>水</div>
+"	"水
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>水</div>
+<hr id=""answer"">shuǐ - water
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shuǐ - water</div>
+"
+"水果
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>水果</div>
+"	"水果
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>水果</div>
+<hr id=""answer"">shuǐguǒ - fruit
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shuǐguǒ - fruit</div>
+"
+"睡觉
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>睡觉</div>
+"	"睡觉
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>睡觉</div>
+<hr id=""answer"">shuìjiào - slapen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shuìjiào - slapen</div>
+"
+"说
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>说</div>
+"	"说
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>说</div>
+<hr id=""answer"">shuō - spreken
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>shuō - spreken</div>
+"
+"四
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>四</div>
+"	"四
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>四</div>
+<hr id=""answer"">sì - vier
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>sì - vier</div>
+"
+"岁
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>岁</div>
+"	"岁
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>岁</div>
+<hr id=""answer"">suì - jaar (leeftijd)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>suì - jaar (leeftijd)</div>
+"
+"他
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>他</div>
+"	"他
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>他</div>
+<hr id=""answer"">tā - hij
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>tā - hij</div>
+"
+"她
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>她</div>
+"	"她
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>她</div>
+<hr id=""answer"">tā - zij
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>tā - zij</div>
+"
+"太
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>太</div>
+"	"太
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>太</div>
+<hr id=""answer"">tài - te (bijwoord)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>tài - te (bijwoord)</div>
+"
+"天气
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>天气</div>
+"	"天气
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>天气</div>
+<hr id=""answer"">tiānqì - weer
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>tiānqì - weer</div>
+"
+"听
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>听</div>
+"	"听
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>听</div>
+<hr id=""answer"">tīng - luisteren
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>tīng - luisteren</div>
+"
+"同学
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>同学</div>
+"	"同学
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>同学</div>
+<hr id=""answer"">tóngxué - klasgenoot
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>tóngxué - klasgenoot</div>
+"
+"喂
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>喂</div>
+"	"喂
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>喂</div>
+<hr id=""answer"">wèi - hallo (telefoon)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>wèi - hallo (telefoon)</div>
+"
+"我
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>我</div>
+"	"我
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>我</div>
+<hr id=""answer"">wǒ - ik
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>wǒ - ik</div>
+"
+"我们
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>我们</div>
+"	"我们
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>我们</div>
+<hr id=""answer"">wǒmen - wij
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>wǒmen - wij</div>
+"
+"五
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>五</div>
+"	"五
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>五</div>
+<hr id=""answer"">wǔ - vijf
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>wǔ - vijf</div>
+"
+"喜欢
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>喜欢</div>
+"	"喜欢
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>喜欢</div>
+<hr id=""answer"">xǐhuan - leuk vinden
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xǐhuan - leuk vinden</div>
+"
+"下
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>下</div>
+"	"下
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>下</div>
+<hr id=""answer"">xià - onder, neer
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xià - onder, neer</div>
+"
+"下午
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>下午</div>
+"	"下午
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>下午</div>
+<hr id=""answer"">xiàwǔ - middag
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xiàwǔ - middag</div>
+"
+"下雨
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>下雨</div>
+"	"下雨
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>下雨</div>
+<hr id=""answer"">xià yǔ - regenen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xià yǔ - regenen</div>
+"
+"先生
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>先生</div>
+"	"先生
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>先生</div>
+<hr id=""answer"">xiānsheng - meneer
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xiānsheng - meneer</div>
+"
+"现在
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>现在</div>
+"	"现在
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>现在</div>
+<hr id=""answer"">xiànzài - nu
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xiànzài - nu</div>
+"
+"想
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>想</div>
+"	"想
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>想</div>
+<hr id=""answer"">xiǎng - willen, denken
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xiǎng - willen, denken</div>
+"
+"小
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>小</div>
+"	"小
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>小</div>
+<hr id=""answer"">xiǎo - klein
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xiǎo - klein</div>
+"
+"小姐
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>小姐</div>
+"	"小姐
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>小姐</div>
+<hr id=""answer"">xiǎojie - mevrouw, juffrouw
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xiǎojie - mevrouw, juffrouw</div>
+"
+"些
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>些</div>
+"	"些
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>些</div>
+<hr id=""answer"">xiē - sommige, beetje
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xiē - sommige, beetje</div>
+"
+"写
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>写</div>
+"	"写
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>写</div>
+<hr id=""answer"">xiě - schrijven
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xiě - schrijven</div>
+"
+"谢谢
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>谢谢</div>
+"	"谢谢
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>谢谢</div>
+<hr id=""answer"">xièxie - dank je
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xièxie - dank je</div>
+"
+"星期
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>星期</div>
+"	"星期
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>星期</div>
+<hr id=""answer"">xīngqī - week
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xīngqī - week</div>
+"
+"学生
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>学生</div>
+"	"学生
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>学生</div>
+<hr id=""answer"">xuéshēng - student
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xuéshēng - student</div>
+"
+"学习
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>学习</div>
+"	"学习
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>学习</div>
+<hr id=""answer"">xuéxí - studeren
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xuéxí - studeren</div>
+"
+"学校
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>学校</div>
+"	"学校
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>学校</div>
+<hr id=""answer"">xuéxiào - school
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>xuéxiào - school</div>
+"
+"一
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>一</div>
+"	"一
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>一</div>
+<hr id=""answer"">yī - één
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>yī - één</div>
+"
+"衣服
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>衣服</div>
+"	"衣服
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>衣服</div>
+<hr id=""answer"">yīfu - kleding
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>yīfu - kleding</div>
+"
+"医生
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>医生</div>
+"	"医生
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>医生</div>
+<hr id=""answer"">yīshēng - dokter
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>yīshēng - dokter</div>
+"
+"医院
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>医院</div>
+"	"医院
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>医院</div>
+<hr id=""answer"">yīyuàn - ziekenhuis
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>yīyuàn - ziekenhuis</div>
+"
+"椅子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>椅子</div>
+"	"椅子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>椅子</div>
+<hr id=""answer"">yǐzi - stoel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>yǐzi - stoel</div>
+"
+"有
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>有</div>
+"	"有
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>有</div>
+<hr id=""answer"">yǒu - hebben
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>yǒu - hebben</div>
+"
+"月
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>月</div>
+"	"月
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>月</div>
+<hr id=""answer"">yuè - maand, maan
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>yuè - maand, maan</div>
+"
+"在
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>在</div>
+"	"在
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>在</div>
+<hr id=""answer"">zài - op/in (locatie)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zài - op/in (locatie)</div>
+"
+"再见
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>再见</div>
+"	"再见
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>再见</div>
+<hr id=""answer"">zàijiàn - tot ziens
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zàijiàn - tot ziens</div>
+"
+"怎么
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>怎么</div>
+"	"怎么
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>怎么</div>
+<hr id=""answer"">zěnme - hoe
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zěnme - hoe</div>
+"
+"怎么样
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>怎么样</div>
+"	"怎么样
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>怎么样</div>
+<hr id=""answer"">zěnmeyàng - hoe is het?
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zěnmeyàng - hoe is het?</div>
+"
+"这
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>这</div>
+"	"这
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>这</div>
+<hr id=""answer"">zhè - dit
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zhè - dit</div>
+"
+"中国
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>中国</div>
+"	"中国
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>中国</div>
+<hr id=""answer"">Zhōngguó - China
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>Zhōngguó - China</div>
+"
+"中午
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>中午</div>
+"	"中午
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>中午</div>
+<hr id=""answer"">zhōngwǔ - middag (12u)
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zhōngwǔ - middag (12u)</div>
+"
+"住
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>住</div>
+"	"住
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>住</div>
+<hr id=""answer"">zhù - wonen
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zhù - wonen</div>
+"
+"桌子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>桌子</div>
+"	"桌子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>桌子</div>
+<hr id=""answer"">zhuōzi - tafel
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zhuōzi - tafel</div>
+"
+"字
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>字</div>
+"	"字
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>字</div>
+<hr id=""answer"">zì - karakter, woord
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zì - karakter, woord</div>
+"
+"昨天
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>昨天</div>
+"	"昨天
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>昨天</div>
+<hr id=""answer"">zuótiān - gisteren
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zuótiān - gisteren</div>
+"
+"坐
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>坐</div>
+"	"坐
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>坐</div>
+<hr id=""answer"">zuò - zitten
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zuò - zitten</div>
+"
+"做
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>做</div>
+"	"做
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>做</div>
+<hr id=""answer"">zuò - doen, maken
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>zuò - doen, maken</div>
+"
+"问题
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>问题</div>
+"	"问题
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>问题</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>wèntí - probleem, vraag</div>
+"
+"西瓜
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>西瓜</div>
+"	"西瓜
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>西瓜</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>xīguā - watermeloen</div>
+"
+"希望
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>希望</div>
+"	"希望
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>希望</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>xīwàng - hopen</div>
+"
+"洗
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>洗</div>
+"	"洗
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>洗</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>xǐ - wassen</div>
+"
+"小时
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>小时</div>
+"	"小时
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>小时</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>xiǎoshí - uur (tijdseenheid)</div>
+"
+"笑
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>笑</div>
+"	"笑
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>笑</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>xiào - lachen</div>
+"
+"新
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>新</div>
+"	"新
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>新</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>xīn - nieuw</div>
+"
+"姓
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>姓</div>
+"	"姓
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>姓</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>xìng - achternaam</div>
+"
+"休息
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>休息</div>
+"	"休息
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>休息</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>xiūxi - rusten</div>
+"
+"雪
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>雪</div>
+"	"雪
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>雪</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>xuě - sneeuw</div>
+"
+"颜色
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>颜色</div>
+"	"颜色
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>颜色</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yánsè - kleur</div>
+"
+"眼睛
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>眼睛</div>
+"	"眼睛
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>眼睛</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yǎnjing - oog</div>
+"
+"羊肉
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>羊肉</div>
+"	"羊肉
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>羊肉</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yángròu - lamsvlees</div>
+"
+"药
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>药</div>
+"	"药
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>药</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yào - medicijn</div>
+"
+"要
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>要</div>
+"	"要
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>要</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yào - willen, moeten</div>
+"
+"也
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>也</div>
+"	"也
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>也</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yě - ook</div>
+"
+"一起
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>一起</div>
+"	"一起
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>一起</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yìqǐ - samen</div>
+"
+"已经
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>已经</div>
+"	"已经
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>已经</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yǐjīng - al</div>
+"
+"因为
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>因为</div>
+"	"因为
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>因为</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yīnwèi - omdat</div>
+"
+"所以
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>所以</div>
+"	"所以
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>所以</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>suǒyǐ - dus</div>
+"
+"阴
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>阴</div>
+"	"阴
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>阴</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yīn - bewolkt</div>
+"
+"游泳
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>游泳</div>
+"	"游泳
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>游泳</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yóuyǒng - zwemmen</div>
+"
+"右边
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>右边</div>
+"	"右边
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>右边</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yòubiān - rechterkant</div>
+"
+"鱼
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>鱼</div>
+"	"鱼
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>鱼</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yú - vis</div>
+"
+"远
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>远</div>
+"	"远
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>远</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yuǎn - ver</div>
+"
+"运动
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>运动</div>
+"	"运动
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>运动</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>yùndòng - sporten</div>
+"
+"再
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>再</div>
+"	"再
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>再</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zài - opnieuw</div>
+"
+"早上
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>早上</div>
+"	"早上
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>早上</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zǎoshang - ochtend</div>
+"
+"丈夫
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>丈夫</div>
+"	"丈夫
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>丈夫</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zhàngfu - echtgenoot</div>
+"
+"找
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>找</div>
+"	"找
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>找</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zhǎo - zoeken</div>
+"
+"着
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>着</div>
+"	"着
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>着</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zhe - partikel (voortdurende actie)</div>
+"
+"真
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>真</div>
+"	"真
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>真</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zhēn - echt</div>
+"
+"正在
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>正在</div>
+"	"正在
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>正在</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zhèngzài - bezig zijn met</div>
+"
+"知道
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>知道</div>
+"	"知道
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>知道</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zhīdào - weten</div>
+"
+"准备
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>准备</div>
+"	"准备
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>准备</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zhǔnbèi - voorbereiden</div>
+"
+"自行车
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>自行车</div>
+"	"自行车
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>自行车</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zìxíngchē - fiets</div>
+"
+"走
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>走</div>
+"	"走
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>走</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zǒu - lopen</div>
+"
+"最
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>最</div>
+"	"最
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>最</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zuì - meest</div>
+"
+"左边
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>左边</div>
+"	"左边
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>左边</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>zuǒbiān - linkerkant</div>
+"
+"吧
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>吧</div>
+"	"吧
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>吧</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>ba - partikel (voor suggesties)</div>
+"
+"白
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>白</div>
+"	"白
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>白</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>bái - wit</div>
+"
+"百
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>百</div>
+"	"百
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>百</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>bǎi - honderd</div>
+"
+"帮助
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>帮助</div>
+"	"帮助
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>帮助</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>bāngzhù - helpen, hulp</div>
+"
+"报纸
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>报纸</div>
+"	"报纸
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>报纸</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>bàozhǐ - krant</div>
+"
+"比
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>比</div>
+"	"比
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>比</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>bǐ - vergelijken</div>
+"
+"别
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>别</div>
+"	"别
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>别</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>bié - niet (gebiedende wijs)</div>
+"
+"长
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>长</div>
+"	"长
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>长</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>cháng - lang</div>
+"
+"唱歌
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>唱歌</div>
+"	"唱歌
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>唱歌</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>chànggē - zingen</div>
+"
+"出
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>出</div>
+"	"出
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>出</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>chū - uitgaan, vertrekken</div>
+"
+"穿
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>穿</div>
+"	"穿
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>穿</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>chuān - dragen (kleding)</div>
+"
+"次
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>次</div>
+"	"次
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>次</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>cì - keer, volgorde</div>
+"
+"从
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>从</div>
+"	"从
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>从</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>cóng - vanaf, volgen</div>
+"
+"错
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>错</div>
+"	"错
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>错</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>cuò - fout</div>
+"
+"打篮球
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>打篮球</div>
+"	"打篮球
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>打篮球</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>dǎ lánqiú - basketbal spelen</div>
+"
+"大家
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>大家</div>
+"	"大家
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>大家</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>dàjiā - iedereen</div>
+"
+"到
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>到</div>
+"	"到
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>到</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>dào - aankomen, tot</div>
+"
+"得
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>得</div>
+"	"得
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>得</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>děi - moeten</div>
+"
+"等
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>等</div>
+"	"等
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>等</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>děng - wachten</div>
+"
+"弟弟
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>弟弟</div>
+"	"弟弟
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>弟弟</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>dìdi - jongere broer</div>
+"
+"第一
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>第一</div>
+"	"第一
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>第一</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>dì yī - eerste</div>
+"
+"懂
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>懂</div>
+"	"懂
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>懂</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>dǒng - begrijpen</div>
+"
+"对
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>对</div>
+"	"对
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>对</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>duì - correct, tegenover</div>
+"
+"房间
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>房间</div>
+"	"房间
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>房间</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>fángjiān - kamer</div>
+"
+"非常
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>非常</div>
+"	"非常
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>非常</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>fēicháng - extreem, zeer</div>
+"
+"服务员
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>服务员</div>
+"	"服务员
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>服务员</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>fúwùyuán - ober, bediende</div>
+"
+"高
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>高</div>
+"	"高
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>高</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>gāo - hoog</div>
+"
+"告诉
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>告诉</div>
+"	"告诉
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>告诉</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>gàosu - vertellen</div>
+"
+"哥哥
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>哥哥</div>
+"	"哥哥
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>哥哥</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>gēge - oudere broer</div>
+"
+"给
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>给</div>
+"	"给
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>给</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>gěi - geven</div>
+"
+"公共汽车
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>公共汽车</div>
+"	"公共汽车
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>公共汽车</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>gōnggòng qìchē - bus</div>
+"
+"公司
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>公司</div>
+"	"公司
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>公司</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>gōngsī - bedrijf</div>
+"
+"贵
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>贵</div>
+"	"贵
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>贵</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>guì - duur</div>
+"
+"过
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>过</div>
+"	"过
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>过</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>guò - ervaren, voorbij</div>
+"
+"还
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>还</div>
+"	"还
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>还</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>hái - nog steeds</div>
+"
+"孩子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>孩子</div>
+"	"孩子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>孩子</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>háizi - kind</div>
+"
+"好吃
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>好吃</div>
+"	"好吃
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>好吃</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>hǎochī - lekker (eten)</div>
+"
+"黑
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>黑</div>
+"	"黑
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>黑</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>hēi - zwart</div>
+"
+"红
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>红</div>
+"	"红
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>红</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>hóng - rood</div>
+"
+"火车站
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>火车站</div>
+"	"火车站
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>火车站</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>huǒchē zhàn - treinstation</div>
+"
+"机场
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>机场</div>
+"	"机场
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>机场</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>jīchǎng - vliegveld</div>
+"
+"鸡蛋
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>鸡蛋</div>
+"	"鸡蛋
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>鸡蛋</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>jīdàn - ei</div>
+"
+"件
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>件</div>
+"	"件
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>件</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>jiàn - classifier voor kleding/zaken</div>
+"
+"教室
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>教室</div>
+"	"教室
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>教室</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>jiàoshì - klaslokaal</div>
+"
+"姐姐
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>姐姐</div>
+"	"姐姐
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>姐姐</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>jiějie - oudere zus</div>
+"
+"介绍
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>介绍</div>
+"	"介绍
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>介绍</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>jièshào - introduceren</div>
+"
+"进
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>进</div>
+"	"进
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>进</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>jìn - binnenkomen</div>
+"
+"近
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>近</div>
+"	"近
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>近</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>jìn - dichtbij</div>
+"
+"就
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>就</div>
+"	"就
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>就</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>jiù - precies, meteen</div>
+"
+"觉得
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>觉得</div>
+"	"觉得
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>觉得</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>juéde - vinden (mening)</div>
+"
+"咖啡
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>咖啡</div>
+"	"咖啡
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>咖啡</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>kāfēi - koffie</div>
+"
+"开始
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>开始</div>
+"	"开始
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>开始</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>kāishǐ - beginnen</div>
+"
+"考试
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>考试</div>
+"	"考试
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>考试</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>kǎoshì - examen</div>
+"
+"可能
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>可能</div>
+"	"可能
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>可能</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>kěnéng - mogelijk</div>
+"
+"可以
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>可以</div>
+"	"可以
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>可以</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>kěyǐ - kunnen (toestemming)</div>
+"
+"课
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>课</div>
+"	"课
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>课</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>kè - les</div>
+"
+"快
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>快</div>
+"	"快
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>快</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>kuài - snel</div>
+"
+"快乐
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>快乐</div>
+"	"快乐
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>快乐</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>kuàilè - gelukkig</div>
+"
+"累
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>累</div>
+"	"累
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>累</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>lèi - moe</div>
+"
+"离
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>离</div>
+"	"离
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>离</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>lí - verwijderd van</div>
+"
+"两
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>两</div>
+"	"两
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>两</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>liǎng - twee (voor objecten)</div>
+"
+"路
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>路</div>
+"	"路
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>路</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>lù - weg, route</div>
+"
+"旅游
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>旅游</div>
+"	"旅游
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>旅游</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>lǚyóu - reizen (toerisme)</div>
+"
+"卖
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>卖</div>
+"	"卖
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>卖</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>mài - verkopen</div>
+"
+"慢
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>慢</div>
+"	"慢
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>慢</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>màn - langzaam</div>
+"
+"忙
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>忙</div>
+"	"忙
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>忙</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>máng - druk</div>
+"
+"每
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>每</div>
+"	"每
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>每</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>měi - elke</div>
+"
+"妹妹
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>妹妹</div>
+"	"妹妹
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>妹妹</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>mèimei - jongere zus</div>
+"
+"门
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>门</div>
+"	"门
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>门</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>mén - deur</div>
+"
+"男
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>男</div>
+"	"男
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>男</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>nán - mannelijk</div>
+"
+"您
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>您</div>
+"	"您
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>您</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>nín - u (beleefd)</div>
+"
+"牛奶
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>牛奶</div>
+"	"牛奶
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>牛奶</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>niúnǎi - melk</div>
+"
+"女
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>女</div>
+"	"女
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>女</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>nǚ - vrouwelijk</div>
+"
+"旁边
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>旁边</div>
+"	"旁边
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>旁边</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>pángbiān - naast</div>
+"
+"跑步
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>跑步</div>
+"	"跑步
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>跑步</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>pǎobù - hardlopen</div>
+"
+"便宜
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>便宜</div>
+"	"便宜
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>便宜</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>piányi - goedkoop</div>
+"
+"票
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>票</div>
+"	"票
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>票</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>piào - ticket</div>
+"
+"妻子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>妻子</div>
+"	"妻子
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>妻子</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>qīzi - vrouw (echtgenote)</div>
+"
+"起床
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>起床</div>
+"	"起床
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>起床</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>qǐchuáng - opstaan (uit bed)</div>
+"
+"千
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>千</div>
+"	"千
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>千</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>qiān - duizend</div>
+"
+"铅笔
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>铅笔</div>
+"	"铅笔
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>铅笔</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>qiānbǐ - potlood</div>
+"
+"晴
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>晴</div>
+"	"晴
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>晴</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>qíng - zonnig (weer)</div>
+"
+"去年
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>去年</div>
+"	"去年
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>去年</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>qùnián - vorig jaar</div>
+"
+"让
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>让</div>
+"	"让
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>让</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>ràng - laten, toestaan</div>
+"
+"日
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>日</div>
+"	"日
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>日</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>rì - dag, zon</div>
+"
+"上班
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>上班</div>
+"	"上班
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>上班</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>shàngbān - gaan werken</div>
+"
+"身体
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>身体</div>
+"	"身体
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>身体</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>shēntǐ - lichaam</div>
+"
+"生病
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>生病</div>
+"	"生病
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>生病</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>shēngbìng - ziek zijn</div>
+"
+"生日
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>生日</div>
+"	"生日
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>生日</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>shēngrì - verjaardag</div>
+"
+"时间
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>时间</div>
+"	"时间
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>时间</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>shíjiān - tijd</div>
+"
+"事情
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>事情</div>
+"	"事情
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>事情</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>shìqing - zaak, kwestie</div>
+"
+"手表
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>手表</div>
+"	"手表
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>手表</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>shǒubiǎo - horloge</div>
+"
+"手机
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>手机</div>
+"	"手机
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>手机</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>shǒujī - mobiele telefoon</div>
+"
+"说话
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>说话</div>
+"	"说话
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>说话</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>shuōhuà - praten</div>
+"
+"送
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>送</div>
+"	"送
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>送</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>sòng - geven, begeleiden</div>
+"
+"虽然
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>虽然</div>
+"	"虽然
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>虽然</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>suīrán - hoewel</div>
+"
+"但是
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>但是</div>
+"	"但是
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>但是</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>dànshì - maar</div>
+"
+"太阳
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>太阳</div>
+"	"太阳
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>太阳</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>tàiyáng - zon</div>
+"
+"题
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>题</div>
+"	"题
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>题</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>tí - vraag, onderwerp</div>
+"
+"跳舞
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>跳舞</div>
+"	"跳舞
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>跳舞</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>tiàowǔ - dansen</div>
+"
+"外
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>外</div>
+"	"外
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>外</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>wài - buiten, buitenlands</div>
+"
+"完
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>完</div>
+"	"完
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>完</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>wán - klaar</div>
+"
+"玩
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>玩</div>
+"	"玩
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>玩</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>wán - spelen</div>
+"
+"晚上
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>晚上</div>
+"	"晚上
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>晚上</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>wǎnshang - avond</div>
+"
+"为什么
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>为什么</div>
+"	"为什么
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>为什么</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>wèishénme - waarom</div>
+"
+"问
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>问</div>
+"	"问
+<div style='font-family: ""Liberation Sans""; font-size: 96px;'>问</div>
+<hr id=""answer"">
+<div style='font-family: ""Liberation Sans""; font-size: 90px;'>wèn - vragen</div>
+"

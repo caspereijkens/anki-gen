@@ -4,7 +4,7 @@ from random import randrange
 
 def generate_deck(model):
     # Load your JSON data
-    with open(f'data/{model}.json', 'r', encoding='utf-8') as f:
+    with open(f'models/{model}.json', 'r', encoding='utf-8') as f:
         cards = json.load(f)
     
     # Define a model (note type)
@@ -37,8 +37,8 @@ def generate_deck(model):
         my_deck.add_note(my_note)
     
     # Save the deck to an .apkg file
-    genanki.Package(my_deck).write_to_file(f'output/{model}.apkg')
+    genanki.Package(my_deck).write_to_file(f'decks/{model}.apkg')
 
 if __name__ == "__main__":
-    for model in ["hsk1", "hsk2"]:
+    for model in ["hsk1-k-pn", "hsk2-k-pn", "hsk1-n-kp", "hsk2-n-kp"]:
         generate_deck(model)

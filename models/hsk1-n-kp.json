@@ -1,0 +1,594 @@
+[
+  {
+    "front": "houden van, liefde",
+    "back": "爱 (ài)"
+  },
+  {
+    "front": "acht",
+    "back": "八 (bā)"
+  },
+  {
+    "front": "vader",
+    "back": "爸爸 (bàba)"
+  },
+  {
+    "front": "kopje, glas",
+    "back": "杯子 (bēizi)"
+  },
+  {
+    "front": "Peking",
+    "back": "北京 (Běijīng)"
+  },
+  {
+    "front": "boek (classifier), basis",
+    "back": "本 (běn)"
+  },
+  {
+    "front": "niet",
+    "back": "不 (bù)"
+  },
+  {
+    "front": "graag gedaan, geen dank",
+    "back": "不客气 (bú kèqi)"
+  },
+  {
+    "front": "groente, gerecht",
+    "back": "菜 (cài)"
+  },
+  {
+    "front": "thee",
+    "back": "茶 (chá)"
+  },
+  {
+    "front": "eten",
+    "back": "吃 (chī)"
+  },
+  {
+    "front": "taxi",
+    "back": "出租车 (chūzūchē)"
+  },
+  {
+    "front": "bellen (telefoon)",
+    "back": "打电话 (dǎ diànhuà)"
+  },
+  {
+    "front": "groot",
+    "back": "大 (dà)"
+  },
+  {
+    "front": "bezittelijk partikel",
+    "back": "的 (de)"
+  },
+  {
+    "front": "punt, uur (tijd)",
+    "back": "点 (diǎn)"
+  },
+  {
+    "front": "computer",
+    "back": "电脑 (diànnǎo)"
+  },
+  {
+    "front": "televisie",
+    "back": "电视 (diànshì)"
+  },
+  {
+    "front": "film",
+    "back": "电影 (diànyǐng)"
+  },
+  {
+    "front": "ding, spullen",
+    "back": "东西 (dōngxi)"
+  },
+  {
+    "front": "allebei, allemaal",
+    "back": "都 (dōu)"
+  },
+  {
+    "front": "lezen",
+    "back": "读 (dú)"
+  },
+  {
+    "front": "sorry",
+    "back": "对不起 (duìbuqǐ)"
+  },
+  {
+    "front": "veel",
+    "back": "多 (duō)"
+  },
+  {
+    "front": "hoeveel",
+    "back": "多少 (duōshao)"
+  },
+  {
+    "front": "zoon",
+    "back": "儿子 (érzi)"
+  },
+  {
+    "front": "twee",
+    "back": "二 (èr)"
+  },
+  {
+    "front": "restaurant, hotel",
+    "back": "饭店 (fàndiàn)"
+  },
+  {
+    "front": "vliegtuig",
+    "back": "飞机 (fēijī)"
+  },
+  {
+    "front": "minuut",
+    "back": "分钟 (fēnzhōng)"
+  },
+  {
+    "front": "blij, gelukkig",
+    "back": "高兴 (gāoxìng)"
+  },
+  {
+    "front": "algemeen classifier",
+    "back": "个 (gè)"
+  },
+  {
+    "front": "werk, werken",
+    "back": "工作 (gōngzuò)"
+  },
+  {
+    "front": "hond",
+    "back": "狗 (gǒu)"
+  },
+  {
+    "front": "Chinees (taal)",
+    "back": "汉语 (Hànyǔ)"
+  },
+  {
+    "front": "goed",
+    "back": "好 (hǎo)"
+  },
+  {
+    "front": "nummer, datum",
+    "back": "号 (hào)"
+  },
+  {
+    "front": "drinken",
+    "back": "喝 (hē)"
+  },
+  {
+    "front": "en, vredig",
+    "back": "和 (hé)"
+  },
+  {
+    "front": "erg, zeer",
+    "back": "很 (hěn)"
+  },
+  {
+    "front": "achterkant, later",
+    "back": "后面 (hòumiàn)"
+  },
+  {
+    "front": "terugkeren",
+    "back": "回 (huí)"
+  },
+  {
+    "front": "kunnen (geleerd vermogen)",
+    "back": "会 (huì)"
+  },
+  {
+    "front": "hoeveel (klein aantal)",
+    "back": "几 (jǐ)"
+  },
+  {
+    "front": "thuis, familie",
+    "back": "家 (jiā)"
+  },
+  {
+    "front": "roepen, heten",
+    "back": "叫 (jiào)"
+  },
+  {
+    "front": "vandaag",
+    "back": "今天 (jīntiān)"
+  },
+  {
+    "front": "negen",
+    "back": "九 (jiǔ)"
+  },
+  {
+    "front": "openen, rijden",
+    "back": "开 (kāi)"
+  },
+  {
+    "front": "kijken, lezen",
+    "back": "看 (kàn)"
+  },
+  {
+    "front": "zien",
+    "back": "看见 (kànjiàn)"
+  },
+  {
+    "front": "stuk, yuan (geld)",
+    "back": "块 (kuài)"
+  },
+  {
+    "front": "komen",
+    "back": "来 (lái)"
+  },
+  {
+    "front": "leraar",
+    "back": "老师 (lǎoshī)"
+  },
+  {
+    "front": "voltooid aspect partikel",
+    "back": "了 (le)"
+  },
+  {
+    "front": "koud",
+    "back": "冷 (lěng)"
+  },
+  {
+    "front": "in, binnen",
+    "back": "里 (lǐ)"
+  },
+  {
+    "front": "zes",
+    "back": "六 (liù)"
+  },
+  {
+    "front": "moeder",
+    "back": "妈妈 (māma)"
+  },
+  {
+    "front": "vraagpartikel",
+    "back": "吗 (ma)"
+  },
+  {
+    "front": "kopen",
+    "back": "买 (mǎi)"
+  },
+  {
+    "front": "kat",
+    "back": "猫 (māo)"
+  },
+  {
+    "front": "niet (ontkennend)",
+    "back": "没 (méi)"
+  },
+  {
+    "front": "geen probleem",
+    "back": "没关系 (méi guānxi)"
+  },
+  {
+    "front": "gekookte rijst",
+    "back": "米饭 (mǐfàn)"
+  },
+  {
+    "front": "naam",
+    "back": "名字 (míngzi)"
+  },
+  {
+    "front": "morgen",
+    "back": "明天 (míngtiān)"
+  },
+  {
+    "front": "welke",
+    "back": "哪 (nǎ)"
+  },
+  {
+    "front": "daar",
+    "back": "那儿 (nàr)"
+  },
+  {
+    "front": "partikel (nadruk op vraag)",
+    "back": "呢 (ne)"
+  },
+  {
+    "front": "kunnen (vermogen)",
+    "back": "能 (néng)"
+  },
+  {
+    "front": "jij",
+    "back": "你 (nǐ)"
+  },
+  {
+    "front": "jaar",
+    "back": "年 (nián)"
+  },
+  {
+    "front": "dochter",
+    "back": "女儿 (nǚ'ér)"
+  },
+  {
+    "front": "vriend",
+    "back": "朋友 (péngyou)"
+  },
+  {
+    "front": "mooi",
+    "back": "漂亮 (piàoliang)"
+  },
+  {
+    "front": "appel",
+    "back": "苹果 (píngguǒ)"
+  },
+  {
+    "front": "zeven",
+    "back": "七 (qī)"
+  },
+  {
+    "front": "geld",
+    "back": "钱 (qián)"
+  },
+  {
+    "front": "voorkant, voor",
+    "back": "前面 (qiánmiàn)"
+  },
+  {
+    "front": "alstublieft, uitnodigen",
+    "back": "请 (qǐng)"
+  },
+  {
+    "front": "gaan",
+    "back": "去 (qù)"
+  },
+  {
+    "front": "heet",
+    "back": "热 (rè)"
+  },
+  {
+    "front": "persoon",
+    "back": "人 (rén)"
+  },
+  {
+    "front": "kennen, herkennen",
+    "back": "认识 (rènshi)"
+  },
+  {
+    "front": "drie",
+    "back": "三 (sān)"
+  },
+  {
+    "front": "winkel",
+    "back": "商店 (shāngdiàn)"
+  },
+  {
+    "front": "boven, op",
+    "back": "上 (shàng)"
+  },
+  {
+    "front": "ochtend",
+    "back": "上午 (shàngwǔ)"
+  },
+  {
+    "front": "weinig",
+    "back": "少 (shǎo)"
+  },
+  {
+    "front": "wie",
+    "back": "谁 (shéi)"
+  },
+  {
+    "front": "wat",
+    "back": "什么 (shénme)"
+  },
+  {
+    "front": "tien",
+    "back": "十 (shí)"
+  },
+  {
+    "front": "tijd, moment",
+    "back": "时候 (shíhou)"
+  },
+  {
+    "front": "zijn",
+    "back": "是 (shì)"
+  },
+  {
+    "front": "boek",
+    "back": "书 (shū)"
+  },
+  {
+    "front": "water",
+    "back": "水 (shuǐ)"
+  },
+  {
+    "front": "fruit",
+    "back": "水果 (shuǐguǒ)"
+  },
+  {
+    "front": "slapen",
+    "back": "睡觉 (shuìjiào)"
+  },
+  {
+    "front": "spreken",
+    "back": "说 (shuō)"
+  },
+  {
+    "front": "vier",
+    "back": "四 (sì)"
+  },
+  {
+    "front": "jaar (leeftijd)",
+    "back": "岁 (suì)"
+  },
+  {
+    "front": "hij",
+    "back": "他 (tā)"
+  },
+  {
+    "front": "zij",
+    "back": "她 (tā)"
+  },
+  {
+    "front": "te (bijwoord)",
+    "back": "太 (tài)"
+  },
+  {
+    "front": "weer",
+    "back": "天气 (tiānqì)"
+  },
+  {
+    "front": "luisteren",
+    "back": "听 (tīng)"
+  },
+  {
+    "front": "klasgenoot",
+    "back": "同学 (tóngxué)"
+  },
+  {
+    "front": "hallo (telefoon)",
+    "back": "喂 (wèi)"
+  },
+  {
+    "front": "ik",
+    "back": "我 (wǒ)"
+  },
+  {
+    "front": "wij",
+    "back": "我们 (wǒmen)"
+  },
+  {
+    "front": "vijf",
+    "back": "五 (wǔ)"
+  },
+  {
+    "front": "leuk vinden",
+    "back": "喜欢 (xǐhuan)"
+  },
+  {
+    "front": "onder, neer",
+    "back": "下 (xià)"
+  },
+  {
+    "front": "middag",
+    "back": "下午 (xiàwǔ)"
+  },
+  {
+    "front": "regenen",
+    "back": "下雨 (xià yǔ)"
+  },
+  {
+    "front": "meneer",
+    "back": "先生 (xiānsheng)"
+  },
+  {
+    "front": "nu",
+    "back": "现在 (xiànzài)"
+  },
+  {
+    "front": "willen, denken",
+    "back": "想 (xiǎng)"
+  },
+  {
+    "front": "klein",
+    "back": "小 (xiǎo)"
+  },
+  {
+    "front": "mevrouw, juffrouw",
+    "back": "小姐 (xiǎojie)"
+  },
+  {
+    "front": "sommige, beetje",
+    "back": "些 (xiē)"
+  },
+  {
+    "front": "schrijven",
+    "back": "写 (xiě)"
+  },
+  {
+    "front": "dank je",
+    "back": "谢谢 (xièxie)"
+  },
+  {
+    "front": "week",
+    "back": "星期 (xīngqī)"
+  },
+  {
+    "front": "student",
+    "back": "学生 (xuéshēng)"
+  },
+  {
+    "front": "studeren",
+    "back": "学习 (xuéxí)"
+  },
+  {
+    "front": "school",
+    "back": "学校 (xuéxiào)"
+  },
+  {
+    "front": "één",
+    "back": "一 (yī)"
+  },
+  {
+    "front": "kleding",
+    "back": "衣服 (yīfu)"
+  },
+  {
+    "front": "dokter",
+    "back": "医生 (yīshēng)"
+  },
+  {
+    "front": "ziekenhuis",
+    "back": "医院 (yīyuàn)"
+  },
+  {
+    "front": "stoel",
+    "back": "椅子 (yǐzi)"
+  },
+  {
+    "front": "hebben",
+    "back": "有 (yǒu)"
+  },
+  {
+    "front": "maand, maan",
+    "back": "月 (yuè)"
+  },
+  {
+    "front": "op/in (locatie)",
+    "back": "在 (zài)"
+  },
+  {
+    "front": "tot ziens",
+    "back": "再见 (zàijiàn)"
+  },
+  {
+    "front": "hoe",
+    "back": "怎么 (zěnme)"
+  },
+  {
+    "front": "hoe is het?",
+    "back": "怎么样 (zěnmeyàng)"
+  },
+  {
+    "front": "dit",
+    "back": "这 (zhè)"
+  },
+  {
+    "front": "China",
+    "back": "中国 (Zhōngguó)"
+  },
+  {
+    "front": "middag (12u)",
+    "back": "中午 (zhōngwǔ)"
+  },
+  {
+    "front": "wonen",
+    "back": "住 (zhù)"
+  },
+  {
+    "front": "tafel",
+    "back": "桌子 (zhuōzi)"
+  },
+  {
+    "front": "karakter, woord",
+    "back": "字 (zì)"
+  },
+  {
+    "front": "gisteren",
+    "back": "昨天 (zuótiān)"
+  },
+  {
+    "front": "zitten",
+    "back": "坐 (zuò)"
+  },
+  {
+    "front": "doen, maken",
+    "back": "做 (zuò)"
+  }
+]

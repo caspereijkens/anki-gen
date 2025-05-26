@@ -1,0 +1,582 @@
+[
+  {
+    "front": "partikel (voor suggesties)",
+    "back": "吧 (ba)"
+  },
+  {
+    "front": "wit",
+    "back": "白 (bái)"
+  },
+  {
+    "front": "honderd",
+    "back": "百 (bǎi)"
+  },
+  {
+    "front": "helpen, hulp",
+    "back": "帮助 (bāngzhù)"
+  },
+  {
+    "front": "krant",
+    "back": "报纸 (bàozhǐ)"
+  },
+  {
+    "front": "vergelijken",
+    "back": "比 (bǐ)"
+  },
+  {
+    "front": "niet (gebiedende wijs)",
+    "back": "别 (bié)"
+  },
+  {
+    "front": "lang",
+    "back": "长 (cháng)"
+  },
+  {
+    "front": "zingen",
+    "back": "唱歌 (chànggē)"
+  },
+  {
+    "front": "uitgaan, vertrekken",
+    "back": "出 (chū)"
+  },
+  {
+    "front": "dragen (kleding)",
+    "back": "穿 (chuān)"
+  },
+  {
+    "front": "keer, volgorde",
+    "back": "次 (cì)"
+  },
+  {
+    "front": "vanaf, volgen",
+    "back": "从 (cóng)"
+  },
+  {
+    "front": "fout",
+    "back": "错 (cuò)"
+  },
+  {
+    "front": "basketbal spelen",
+    "back": "打篮球 (dǎ lánqiú)"
+  },
+  {
+    "front": "iedereen",
+    "back": "大家 (dàjiā)"
+  },
+  {
+    "front": "aankomen, tot",
+    "back": "到 (dào)"
+  },
+  {
+    "front": "moeten",
+    "back": "得 (děi)"
+  },
+  {
+    "front": "wachten",
+    "back": "等 (děng)"
+  },
+  {
+    "front": "jongere broer",
+    "back": "弟弟 (dìdi)"
+  },
+  {
+    "front": "eerste",
+    "back": "第一 (dì yī)"
+  },
+  {
+    "front": "begrijpen",
+    "back": "懂 (dǒng)"
+  },
+  {
+    "front": "correct, tegenover",
+    "back": "对 (duì)"
+  },
+  {
+    "front": "kamer",
+    "back": "房间 (fángjiān)"
+  },
+  {
+    "front": "extreem, zeer",
+    "back": "非常 (fēicháng)"
+  },
+  {
+    "front": "ober, bediende",
+    "back": "服务员 (fúwùyuán)"
+  },
+  {
+    "front": "hoog",
+    "back": "高 (gāo)"
+  },
+  {
+    "front": "vertellen",
+    "back": "告诉 (gàosu)"
+  },
+  {
+    "front": "oudere broer",
+    "back": "哥哥 (gēge)"
+  },
+  {
+    "front": "geven",
+    "back": "给 (gěi)"
+  },
+  {
+    "front": "bus",
+    "back": "公共汽车 (gōnggòng qìchē)"
+  },
+  {
+    "front": "bedrijf",
+    "back": "公司 (gōngsī)"
+  },
+  {
+    "front": "duur",
+    "back": "贵 (guì)"
+  },
+  {
+    "front": "ervaren, voorbij",
+    "back": "过 (guò)"
+  },
+  {
+    "front": "nog steeds",
+    "back": "还 (hái)"
+  },
+  {
+    "front": "kind",
+    "back": "孩子 (háizi)"
+  },
+  {
+    "front": "lekker (eten)",
+    "back": "好吃 (hǎochī)"
+  },
+  {
+    "front": "zwart",
+    "back": "黑 (hēi)"
+  },
+  {
+    "front": "rood",
+    "back": "红 (hóng)"
+  },
+  {
+    "front": "treinstation",
+    "back": "火车站 (huǒchē zhàn)"
+  },
+  {
+    "front": "vliegveld",
+    "back": "机场 (jīchǎng)"
+  },
+  {
+    "front": "ei",
+    "back": "鸡蛋 (jīdàn)"
+  },
+  {
+    "front": "classifier voor kleding/zaken",
+    "back": "件 (jiàn)"
+  },
+  {
+    "front": "klaslokaal",
+    "back": "教室 (jiàoshì)"
+  },
+  {
+    "front": "oudere zus",
+    "back": "姐姐 (jiějie)"
+  },
+  {
+    "front": "introduceren",
+    "back": "介绍 (jièshào)"
+  },
+  {
+    "front": "binnenkomen",
+    "back": "进 (jìn)"
+  },
+  {
+    "front": "dichtbij",
+    "back": "近 (jìn)"
+  },
+  {
+    "front": "precies, meteen",
+    "back": "就 (jiù)"
+  },
+  {
+    "front": "vinden (mening)",
+    "back": "觉得 (juéde)"
+  },
+  {
+    "front": "koffie",
+    "back": "咖啡 (kāfēi)"
+  },
+  {
+    "front": "beginnen",
+    "back": "开始 (kāishǐ)"
+  },
+  {
+    "front": "examen",
+    "back": "考试 (kǎoshì)"
+  },
+  {
+    "front": "mogelijk",
+    "back": "可能 (kěnéng)"
+  },
+  {
+    "front": "kunnen (toestemming)",
+    "back": "可以 (kěyǐ)"
+  },
+  {
+    "front": "les",
+    "back": "课 (kè)"
+  },
+  {
+    "front": "snel",
+    "back": "快 (kuài)"
+  },
+  {
+    "front": "gelukkig",
+    "back": "快乐 (kuàilè)"
+  },
+  {
+    "front": "moe",
+    "back": "累 (lèi)"
+  },
+  {
+    "front": "verwijderd van",
+    "back": "离 (lí)"
+  },
+  {
+    "front": "twee (voor objecten)",
+    "back": "两 (liǎng)"
+  },
+  {
+    "front": "weg, route",
+    "back": "路 (lù)"
+  },
+  {
+    "front": "reizen (toerisme)",
+    "back": "旅游 (lǚyóu)"
+  },
+  {
+    "front": "verkopen",
+    "back": "卖 (mài)"
+  },
+  {
+    "front": "langzaam",
+    "back": "慢 (màn)"
+  },
+  {
+    "front": "druk",
+    "back": "忙 (máng)"
+  },
+  {
+    "front": "elke",
+    "back": "每 (měi)"
+  },
+  {
+    "front": "jongere zus",
+    "back": "妹妹 (mèimei)"
+  },
+  {
+    "front": "deur",
+    "back": "门 (mén)"
+  },
+  {
+    "front": "mannelijk",
+    "back": "男 (nán)"
+  },
+  {
+    "front": "u (beleefd)",
+    "back": "您 (nín)"
+  },
+  {
+    "front": "melk",
+    "back": "牛奶 (niúnǎi)"
+  },
+  {
+    "front": "vrouwelijk",
+    "back": "女 (nǚ)"
+  },
+  {
+    "front": "naast",
+    "back": "旁边 (pángbiān)"
+  },
+  {
+    "front": "hardlopen",
+    "back": "跑步 (pǎobù)"
+  },
+  {
+    "front": "goedkoop",
+    "back": "便宜 (piányi)"
+  },
+  {
+    "front": "ticket",
+    "back": "票 (piào)"
+  },
+  {
+    "front": "vrouw (echtgenote)",
+    "back": "妻子 (qīzi)"
+  },
+  {
+    "front": "opstaan (uit bed)",
+    "back": "起床 (qǐchuáng)"
+  },
+  {
+    "front": "duizend",
+    "back": "千 (qiān)"
+  },
+  {
+    "front": "potlood",
+    "back": "铅笔 (qiānbǐ)"
+  },
+  {
+    "front": "zonnig (weer)",
+    "back": "晴 (qíng)"
+  },
+  {
+    "front": "vorig jaar",
+    "back": "去年 (qùnián)"
+  },
+  {
+    "front": "laten, toestaan",
+    "back": "让 (ràng)"
+  },
+  {
+    "front": "dag, zon",
+    "back": "日 (rì)"
+  },
+  {
+    "front": "gaan werken",
+    "back": "上班 (shàngbān)"
+  },
+  {
+    "front": "lichaam",
+    "back": "身体 (shēntǐ)"
+  },
+  {
+    "front": "ziek zijn",
+    "back": "生病 (shēngbìng)"
+  },
+  {
+    "front": "verjaardag",
+    "back": "生日 (shēngrì)"
+  },
+  {
+    "front": "tijd",
+    "back": "时间 (shíjiān)"
+  },
+  {
+    "front": "zaak, kwestie",
+    "back": "事情 (shìqing)"
+  },
+  {
+    "front": "horloge",
+    "back": "手表 (shǒubiǎo)"
+  },
+  {
+    "front": "mobiele telefoon",
+    "back": "手机 (shǒujī)"
+  },
+  {
+    "front": "praten",
+    "back": "说话 (shuōhuà)"
+  },
+  {
+    "front": "geven, begeleiden",
+    "back": "送 (sòng)"
+  },
+  {
+    "front": "hoewel",
+    "back": "虽然 (suīrán)"
+  },
+  {
+    "front": "maar",
+    "back": "但是 (dànshì)"
+  },
+  {
+    "front": "zon",
+    "back": "太阳 (tàiyáng)"
+  },
+  {
+    "front": "vraag, onderwerp",
+    "back": "题 (tí)"
+  },
+  {
+    "front": "dansen",
+    "back": "跳舞 (tiàowǔ)"
+  },
+  {
+    "front": "buiten, buitenlands",
+    "back": "外 (wài)"
+  },
+  {
+    "front": "klaar",
+    "back": "完 (wán)"
+  },
+  {
+    "front": "spelen",
+    "back": "玩 (wán)"
+  },
+  {
+    "front": "avond",
+    "back": "晚上 (wǎnshang)"
+  },
+  {
+    "front": "waarom",
+    "back": "为什么 (wèishénme)"
+  },
+  {
+    "front": "vragen",
+    "back": "问 (wèn)"
+  },
+  {
+    "front": "probleem, vraag",
+    "back": "问题 (wèntí)"
+  },
+  {
+    "front": "watermeloen",
+    "back": "西瓜 (xīguā)"
+  },
+  {
+    "front": "hopen",
+    "back": "希望 (xīwàng)"
+  },
+  {
+    "front": "wassen",
+    "back": "洗 (xǐ)"
+  },
+  {
+    "front": "uur (tijdseenheid)",
+    "back": "小时 (xiǎoshí)"
+  },
+  {
+    "front": "lachen",
+    "back": "笑 (xiào)"
+  },
+  {
+    "front": "nieuw",
+    "back": "新 (xīn)"
+  },
+  {
+    "front": "achternaam",
+    "back": "姓 (xìng)"
+  },
+  {
+    "front": "rusten",
+    "back": "休息 (xiūxi)"
+  },
+  {
+    "front": "sneeuw",
+    "back": "雪 (xuě)"
+  },
+  {
+    "front": "kleur",
+    "back": "颜色 (yánsè)"
+  },
+  {
+    "front": "oog",
+    "back": "眼睛 (yǎnjing)"
+  },
+  {
+    "front": "lamsvlees",
+    "back": "羊肉 (yángròu)"
+  },
+  {
+    "front": "medicijn",
+    "back": "药 (yào)"
+  },
+  {
+    "front": "willen, moeten",
+    "back": "要 (yào)"
+  },
+  {
+    "front": "ook",
+    "back": "也 (yě)"
+  },
+  {
+    "front": "samen",
+    "back": "一起 (yìqǐ)"
+  },
+  {
+    "front": "al",
+    "back": "已经 (yǐjīng)"
+  },
+  {
+    "front": "omdat",
+    "back": "因为 (yīnwèi)"
+  },
+  {
+    "front": "dus",
+    "back": "所以 (suǒyǐ)"
+  },
+  {
+    "front": "bewolkt",
+    "back": "阴 (yīn)"
+  },
+  {
+    "front": "zwemmen",
+    "back": "游泳 (yóuyǒng)"
+  },
+  {
+    "front": "rechterkant",
+    "back": "右边 (yòubiān)"
+  },
+  {
+    "front": "vis",
+    "back": "鱼 (yú)"
+  },
+  {
+    "front": "ver",
+    "back": "远 (yuǎn)"
+  },
+  {
+    "front": "sporten",
+    "back": "运动 (yùndòng)"
+  },
+  {
+    "front": "opnieuw",
+    "back": "再 (zài)"
+  },
+  {
+    "front": "ochtend",
+    "back": "早上 (zǎoshang)"
+  },
+  {
+    "front": "echtgenoot",
+    "back": "丈夫 (zhàngfu)"
+  },
+  {
+    "front": "zoeken",
+    "back": "找 (zhǎo)"
+  },
+  {
+    "front": "partikel (voortdurende actie)",
+    "back": "着 (zhe)"
+  },
+  {
+    "front": "echt",
+    "back": "真 (zhēn)"
+  },
+  {
+    "front": "bezig zijn met",
+    "back": "正在 (zhèngzài)"
+  },
+  {
+    "front": "weten",
+    "back": "知道 (zhīdào)"
+  },
+  {
+    "front": "voorbereiden",
+    "back": "准备 (zhǔnbèi)"
+  },
+  {
+    "front": "fiets",
+    "back": "自行车 (zìxíngchē)"
+  },
+  {
+    "front": "lopen",
+    "back": "走 (zǒu)"
+  },
+  {
+    "front": "meest",
+    "back": "最 (zuì)"
+  },
+  {
+    "front": "linkerkant",
+    "back": "左边 (zuǒbiān)"
+  }
+]
